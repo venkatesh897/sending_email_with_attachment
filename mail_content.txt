@@ -1,0 +1,7 @@
+'''
+Hello,
+This is a test mail.
+In this mail we are sending some attachments.
+The mail is sent using Python SMTP library.
+Thank You
+'''
